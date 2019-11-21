@@ -65,8 +65,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ElasticsearchTest.wildCardQuery">
-    <configuration name="ElasticsearchTest.matchQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ElasticsearchTest02.highlighter">
+    <configuration name="ElasticsearchTest02.highLighter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="elasticsearch" />
       <extension name="coverage">
         <pattern>
@@ -75,14 +75,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xxm" />
-      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest" />
-      <option name="METHOD_NAME" value="matchQuery" />
+      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest02" />
+      <option name="METHOD_NAME" value="highLighter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElasticsearchTest.selectMatchAllQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ElasticsearchTest02.highlighter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="elasticsearch" />
       <extension name="coverage">
         <pattern>
@@ -91,14 +91,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xxm" />
-      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest" />
-      <option name="METHOD_NAME" value="selectMatchAllQuery" />
+      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest02" />
+      <option name="METHOD_NAME" value="highlighter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElasticsearchTest.selectQueryString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ElasticsearchTest02.orderQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="elasticsearch" />
       <extension name="coverage">
         <pattern>
@@ -107,14 +107,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xxm" />
-      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest" />
-      <option name="METHOD_NAME" value="selectQueryString" />
+      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest02" />
+      <option name="METHOD_NAME" value="orderQuery" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElasticsearchTest.termQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ElasticsearchTest02.pageQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="elasticsearch" />
       <extension name="coverage">
         <pattern>
@@ -123,14 +123,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xxm" />
-      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest" />
-      <option name="METHOD_NAME" value="termQuery" />
+      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest02" />
+      <option name="METHOD_NAME" value="pageQuery" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElasticsearchTest.wildCardQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ElasticsearchTest02.wildCardQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="elasticsearch" />
       <extension name="coverage">
         <pattern>
@@ -139,7 +139,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.xxm" />
-      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest" />
+      <option name="MAIN_CLASS_NAME" value="com.xxm.ElasticsearchTest02" />
       <option name="METHOD_NAME" value="wildCardQuery" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -221,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ElasticsearchTest.wildCardQuery" />
-        <item itemvalue="JUnit.ElasticsearchTest.matchQuery" />
-        <item itemvalue="JUnit.ElasticsearchTest.termQuery" />
-        <item itemvalue="JUnit.ElasticsearchTest.selectQueryString" />
-        <item itemvalue="JUnit.ElasticsearchTest.selectMatchAllQuery" />
+        <item itemvalue="JUnit.ElasticsearchTest02.highlighter" />
+        <item itemvalue="JUnit.ElasticsearchTest02.highLighter" />
+        <item itemvalue="JUnit.ElasticsearchTest02.orderQuery" />
+        <item itemvalue="JUnit.ElasticsearchTest02.pageQuery" />
+        <item itemvalue="JUnit.ElasticsearchTest02.wildCardQuery" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +247,10 @@
       <workItem from="1573998012323" duration="5378000" />
       <workItem from="1574041277587" duration="631000" />
       <workItem from="1574059176291" duration="593000" />
-      <workItem from="1574086052159" duration="836000" />
+      <workItem from="1574086052159" duration="1100000" />
+      <workItem from="1574145466273" duration="17356000" />
+      <workItem from="1574165782787" duration="31000" />
+      <workItem from="1574165963548" duration="71000" />
     </task>
     <servers />
   </component>

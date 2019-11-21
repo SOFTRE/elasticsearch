@@ -29,7 +29,7 @@ import java.util.Map;
  * @LastModifyBy:
  * @Version: V1.0
  */
-public class ElasticsearchTest {
+public class ElasticsearchTest01 {
     private TransportClient transportClient;
     //创建 索引(库) 创建 类型(表)，创建 文档(行) -->json
     //每个文档都需要有一个唯一标识
